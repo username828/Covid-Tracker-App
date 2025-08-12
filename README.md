@@ -35,3 +35,7 @@ Base URL of API : https://disease.sh/v3/covid-19
 
 ## Project Reference
 Based on the tutorial by JavaScript Mastery https://www.youtube.com/watch?v=khJlrj3Y6Ls
+
+
+## Deployment Link (Netlify)
+https://darling-maamoul-6d25f9.netlify.app/
